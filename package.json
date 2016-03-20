@@ -1,0 +1,56 @@
+{
+  "name": "react-flexbox-grid-with-materialui",
+  "version": "1.0.0",
+  "description": "Example using react-flexbox-grid and react-materialize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnchdrff/react-flexbox-grid-with-materialui.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "flexboxgrid",
+    "flexbox",
+    "components",
+    "materialui"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "babel-core": "^6.1.4",
+    "babel-eslint": "^4.1.5",
+    "babel-loader": "^6.0.1",
+    "babel-polyfill": "^6.3.14",
+    "babel-plugin-react-transform": "^1.1.1",
+    "babel-preset-es2015": "^6.1.4",
+    "babel-preset-react": "^6.1.4",
+    "babel-preset-stage-0": "^6.1.18",
+    "classnames": "^2.2.1",
+    "cross-env": "^1.0.1",
+    "css-loader": "^0.21.0",
+    "express": "^4.13.3",
+    "extract-text-webpack-plugin": "^0.9.0",
+    "flexboxgrid": "^6.3.0",
+    "jquery": "^2.1.4",
+    "materialize-css": "^0.97.3",
+    "node-sass": "^3.4.1",
+    "postcss-loader": "^0.7.0",
+    "react": "^0.14",
+    "react-dom": "^0.14.2",
+    "react-flexbox-grid": "^0.9.5",
+    "react-materialize": ">=0.14.0",
+    "react-transform-catch-errors": "^1.0.0",
+    "react-transform-hmr": "^1.0.1",
+    "sass-loader": "^3.0.0",
+    "style-loader": "^0.13.0",
+    "toolbox-loader": "0.0.3",
+    "webpack": "^1.12.0",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.4.1"
+  },
+  "author": "bnchdrff",
+  "license": "MIT"
+}
